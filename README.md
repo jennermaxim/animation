@@ -1,2 +1,4 @@
-# slideshow using JavaScript
-## This repository contains for creating a slideshow using JavaScript, CSS, and HTML
+# ANIMATION using JavaScript
+## This repository contains Multiple Animations created using JavaScript, CSS, and HTML
+
+### 1 - slildeshow
